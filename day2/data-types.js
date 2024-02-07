@@ -52,5 +52,21 @@ console.log(user4==user3) // true burada user4 user3ten referans alıyor
 let age = 35
 const gravity=9.81
 
+//string methods 
 
+let js = 'ahseneser'
+console.log(js.length)// uzunlugunu bulmak için
 
+let string ='Javascript'
+let firstLetter=string[0]//ilk karakteri verir
+console.log(string.toUpperCase)//BÜYÜK HARFE CEVİRİR
+
+console.log(string.substring(0,4)) //Java
+console.log(string.substring(4,10))//script//4ten sonra kaça kadar alsın
+console.log(string.substring(4)) // script, burada 4ten sonraki tamamnını alır
+
+'ahsen'.split('') // 'a','h','s','e','n'
+'ahsen'.split('').reverse() // 'n','e','s','h','a'
+'ahsen'.split('').reverse().join('') //'nesha'
+
+  
