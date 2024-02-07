@@ -69,4 +69,6 @@ console.log(string.substring(4)) // script, burada 4ten sonraki tamamnını alı
 'ahsen'.split('').reverse() // 'n','e','s','h','a'
 'ahsen'.split('').reverse().join('') //'nesha'
 
-  
+  //boolean
+let isLightOn=true
+let isRaining=false 
