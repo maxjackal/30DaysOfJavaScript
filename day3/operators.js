@@ -89,7 +89,7 @@ let days =[
     'pazartesi','salı','çarşamba','perşembe','cuma','cumartes,','pazar'
 ]
 
-let dateRead='${day} ${months[month] ${year} ${days[dayNumber]}}'
+let dateRead='${day} ${months[month]} ${year} ${days[dayNumber]}'
 //7 Şubat 2024 Çarşamba
 
 
